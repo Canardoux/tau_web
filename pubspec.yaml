@@ -15,7 +15,7 @@ dependencies:
   etau: # ^0.17.15
     path: ../etau # etau Dir
     
-  web: ^1.0.0
+  #web: ^1.0.0
   logger: ^2.4.0
   #import_js_library: ^1.0.1
   #flutter_js: ^0.8.1 
